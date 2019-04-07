@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My Blog</title>
+    <title>Posts on Darudaru Blog</title>
     <link>http://darupants.github.io/post/</link>
-    <description>Recent content in Posts on My Blog</description>
+    <description>Recent content in Posts on Darudaru Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Apr 2019 10:07:35 +0900</lastBuildDate>
+    <copyright>darupants All rights reserved.</copyright>
+    <lastBuildDate>Sun, 07 Apr 2019 16:20:31 +0900</lastBuildDate>
     
 	<atom:link href="http://darupants.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20190407</title>
+      <link>http://darupants.github.io/post/20190407/</link>
+      <pubDate>Sun, 07 Apr 2019 16:20:31 +0900</pubDate>
+      
+      <guid>http://darupants.github.io/post/20190407/</guid>
+      <description>2日目のブログです 実は初日のブログ投稿は最初404エラーで表示されないトラブルがありました。 GitHubサポートに連絡してすぐに解決しました。 詳細は書きませんが以下がGithubサポートからのメールです。
+ In order to be built for the very first time, a GitHub Pages repository must have a commit pushed to it by the account that owns it.
+ なるほどねー:smile:
++++</description>
+    </item>
     
     <item>
       <title>ブログ始めました</title>
